@@ -11,7 +11,9 @@
   background-color: #2a2a2a; 
  
 } */
-
+body{
+  background-color: 	#36454F;
+}
 
 .header{
   /* background-color: #a892ee; */
@@ -25,7 +27,7 @@
 main{display: flex;
 justify-content: center;
 align-items: center;
-height: 40em ;
+height: 86.5vh ;
 
 }
 
